@@ -1,0 +1,195 @@
+html{
+    position: relative;
+    width: 1920px;
+    height: 1080px;
+    background: #1F2833;
+    background-image: url("background.png");
+}
+
+.square{
+    position: absolute;
+    width: 1825px;
+    height: 920px;
+    left: 36px;
+    top: 143px;
+    background: rgba(69, 162, 158, 0.5);
+    border-radius: 30px;
+}
+
+p{
+    position: absolute;
+    width: 500px;
+    height: 48px;
+    left: 790px;
+    top: 135px;
+    font-family: 'inter';
+    font-weight: 400;
+    font-size: 60px;
+    line-height: 48px;
+    color: #66FCF1;
+}
+
+.square1{
+    position: absolute;
+    width: 1783px;
+    height: 297px;
+    left: 56px;
+    top: 290px;
+    background: #C5C6C7;
+    border-radius: 30px;
+}
+
+.logout{
+    position: absolute;
+    width: 172px;
+    height: 69px;
+    left: 1740px;
+    top: 45px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 48px;
+    text-align: justify;
+    text-decoration: none;
+    color: #66FCF1;
+    opacity: 1;
+}
+
+.logout:hover{
+    opacity:0.5;
+}
+
+.line{
+    position: absolute;
+    width: 80px;
+    height: 0px;
+    left: 1650px;
+    top: 70px;
+    border: 1px solid #66FCF1;
+    transform: rotate(-90deg);
+}
+
+.profile{
+    position: absolute;
+    width: 172px;
+    height: 69px;
+    left: 1535px;
+    top: 45px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 48px;
+    text-align: justify;
+    text-decoration: none;
+    color: #66FCF1
+}
+
+.profile:hover{
+    opacity:0.5;
+}
+
+.image{
+    position: absolute;
+    width: 70px;
+    height: 64px;
+    left: 1455px;
+    top: 37px;
+}
+
+.image1{
+    position: absolute;
+    width: 175px;
+    height: 165px;
+    left: 57px;
+    top: -24px;
+}
+
+.PAJ{
+    position: absolute;
+    width: 250px;
+    height: 93px;
+    left: 835px;
+    top: 957px;
+    background: #1F2833;
+    border-radius: 30px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 48px;
+    text-align: center;
+    text-decoration: none;
+    color: #66fcf1;
+    border: none;
+}
+
+.PAJ:hover{
+    background:#66fcf1;
+    color: #000000;
+}
+
+.PAJ{
+    position: absolute;
+    width: 250px;
+    height: 93px;
+    left: 835px;
+    top: 957px;
+    background: #1F2833;
+    border-radius: 30px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 48px;
+    text-align: center;
+    text-decoration: none;
+    color: #66fcf1;
+    border: none;
+}
+
+.PAJ:hover{
+    background:#66fcf1;
+    color: #000000;
+    border: none;
+}
+
+.AAP{
+    position: absolute;
+    width: 228px;
+    height: 87px;
+    left: 846px;
+    top: 464px;
+
+    background: #1F2833;
+    border-radius: 30px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 35px;
+    line-height: 42px;
+    text-align: center;
+    
+    color: #66FCF1
+}
+
+.AAP:hover{
+    background:#66fcf1;
+    color: #000000;
+    border: none;
+}
+
+.searchbar{
+    position: absolute;
+    width: 604px;
+    height: 77px;
+    left: 56px;
+    top: 172px;
+    background: #C5C6C7;
+    border-radius: 30px;
+    border: none;
+    font-size: 30px;
+    border: none;
+}

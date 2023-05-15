@@ -1,0 +1,252 @@
+html {
+	position: relative;
+	width: 1920px;
+	height: 1080px;
+	background: #1F2833;
+	background-image: url("background.png");
+}
+
+
+p {
+	position: absolute;
+	width: 815px;
+	height: 69px;
+	left: 65px;
+	top: 143px;
+	font-family: 'Quantico';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 60px;
+	line-height: 86px;
+	color: #66fcf1;
+}
+
+.image_1 {
+	position: absolute;
+	width: 175px;
+	height: 165px;
+	left: 57px;
+	top: -24px;
+
+}
+
+.image_7 {
+	position: absolute;
+	width: 182px;
+	height: 154px;
+	left: 79px;
+	top: 338px;
+}
+
+.image_2 {
+	position: absolute;
+	width: 193px;
+	height: 189px;
+	left: 827px;
+	top: 332px;
+}
+
+.image_3 {
+	position: absolute;
+	width: 195px;
+	height: 198px;
+	left: 437px;
+	top: 572px;
+
+}
+
+.image_4 {
+	position: absolute;
+	width: 213px;
+	height: 188px;
+	left: 450px;
+	top: 814px;
+
+}
+
+.image_5 {
+	position: absolute;
+	width: 212px;
+	height: 217px;
+	left: 808px;
+	top: 564px;
+}
+
+.image_8 {
+	position: absolute;
+	width: 309px;
+	height: 300px;
+	left: 757px;
+	top: 763px;
+}
+
+.image_10 {
+	position: absolute;
+	width: 252px;
+	height: 147px;
+	left: 65px;
+	top: 853px;
+}
+
+.image_6 {
+	position: absolute;
+	width: 256px;
+	height: 217px;
+	left: 407px;
+	top: 307px;
+}
+
+.image_9 {
+	position: absolute;
+	width: 227px;
+	height: 213px;
+	left: 57px;
+	top: 558px;
+}
+
+.square{
+	position: absolute;
+	width: 573px;
+	height: 796px;
+	left: 1242px;
+	top: 212px;
+	background: rgba(69, 162, 158, 0.5);
+	border-radius: 30px;
+}
+
+input[type=text]{
+	position: absolute;
+	width: 527px;
+	height: 103px;
+	left: 1268px;
+	top: 297px;
+	font-family: 'arial';
+	font-size: 40px;
+	background: #C5C6C7;
+	border-radius: 30px;
+	border: none;
+}
+
+input[type=password]{
+	position: absolute;
+	width: 527px;
+	height: 103px;
+	left: 1268px;
+	top: 507px;
+	font-family: 'arial';
+	font-size: 40px;
+	background: #C5C6C7;
+	border-radius: 30px;
+	border: none;
+}
+
+.username{
+	position: absolute;
+	width: 214px;
+	height: 50px;
+	left: 1273px;
+	top: 210px;
+	font-family: 'Inter';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 40px;
+	line-height: 48px;}
+
+.password{
+	position: absolute;
+	width: 214px;
+	height: 50px;
+	left: 1275px;
+	top: 420px;
+	font-family: 'Inter';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 40px;
+	line-height: 48px;
+}
+
+.button1{
+	position: absolute;
+	width: 286px;
+	height: 68px;
+	left: 1385px;
+	top: 654px;
+	background: #1F2833;
+	mix-blend-mode: normal;
+	border-radius: 30px;
+	font-family: 'Inter';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 40px;
+	line-height: 48px;
+	color: #66fcf1;
+	border: none;
+}
+
+.button1:hover{
+	background: #66fcf1;
+	mix-blend-mode: normal;
+	Color: #000000;
+	border: none;
+}
+
+.button2{
+	position: absolute;
+	width: 353px;
+	height: 54px;
+	left: 1387px;
+	top: 735px;
+	font-family: 'Inter';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 40px;
+	line-height: 48px;
+	border: none;
+	outline: none;
+	background: none;
+	color: #000000;
+	text-decoration: none;
+}
+
+.button2:hover{
+	color: #66fcf1;
+}
+
+
+.line{
+	position: absolute;
+	width: 515px;
+	height: 0px;
+	left: 1270px;
+	top: 790px;
+	border: 1px solid #FFFFFF;
+}
+
+.button3{
+	position: absolute;
+	width: 459px;
+	height: 66px;
+	left: 1304px;
+	top: 829px;
+	background: #1F2833;
+	border-radius: 30px;
+	position: absolute;
+	width: 426px;
+	height: 55px;
+	left: 1320px;
+	top: 835px;
+	font-family: 'Inter';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 40px;
+	line-height: 48px;
+	color: #66fcf1;
+	border: none;
+}
+
+.button3:hover{
+	background-color: #66fcf1;
+	color: #000000;
+	border: none;
+}
+

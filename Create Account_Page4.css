@@ -1,0 +1,58 @@
+html{
+	position: relative;
+	width: 1920px;
+	height: 1080px;
+	background: #1F2833;
+    background-image: url("background.png");
+}
+
+.previous{
+    position: absolute;
+    width: 172px;
+    height: 55px;
+    left: 90px;
+    top: 45px;
+    font-family: 'inter';
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 60px;
+    color: #66fcf1;
+    text-decoration:none; 
+}
+
+.previous:hover{
+    opacity: 0.5;
+}
+
+.image{
+    position: absolute;
+    width: 50px;
+    height: 40px;
+    left: 30px;
+    top: 55px;
+}
+
+.image1{
+    position: absolute;
+    width: 600px;
+    height: 500px;
+    left: 720px;
+    top: 19px;
+    
+}
+
+.text1{
+    position: absolute;
+    width: 1767px;
+    height: 21640px;
+    left: 74px;
+    top: 363px;
+    
+    font-family: 'Arial';
+    font-weight: 400;
+    font-size: 50px;
+    line-height: 61px;
+    text-align: justify;
+    
+    color: #66fcf1;
+}
